@@ -1,0 +1,9 @@
+<h1>Oceanlau's Blog List</h1>
+<section ng-repeat="(year, blogEntryListForTheYear) in blogListJSON">
+	<h2>{{year}}</h2>
+	<ul>
+		<li ng-repeat="(date, blogEntryName) in blogEntryListForTheYear">
+			<span>{{date}}</span>:<a href="/oceanlau.github.com/index.html#/blog/{{blogEntryName}}">{{blogEntryName}}</a>
+		</li>
+	</ul>
+</section>
