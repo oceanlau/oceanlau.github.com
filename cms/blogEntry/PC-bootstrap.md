@@ -36,7 +36,9 @@ Win 7
 
 -   Microsoft Office 2010
 
--   Game Environment: 游民终于做了件[不流氓的事](http://www.gamersky.com/handbook/201007/161921.shtml)
+-   Game Environment
+
+    游民终于做了件[不流氓的事](http://www.gamersky.com/handbook/201007/161921.shtml)
 
 -   [Steam](http://steampowered.com/)
 

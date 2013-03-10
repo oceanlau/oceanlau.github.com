@@ -30,7 +30,7 @@ angular
                 tElement.html('');
                 tElement.append(mdWrapperElement);
 
-                //link functino
+                //link function
                 return function(scope, element, attrs){
                     $http({
                         method: 'GET',
