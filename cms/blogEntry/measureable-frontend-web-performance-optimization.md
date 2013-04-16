@@ -24,3 +24,22 @@ Shoulders Of The Giants
 
 Measuring Your Work
 -------------------
+
+YSlow和PageSpeed就不说了。
+
+###[dynaTrace AJAX Edition](http://www.compuware.com/application-performance-management/ajax-performance-testing.html)
+
+相比下面两款比较单纯的抓包工具，dynaTrace是性能优化比较首选，KPIs数据明显，同时可用来评价JS性能，还有更多。
+
+###HttpWatch
+
+[HttpWatch工具简介及使用技巧](http://www.cnblogs.com/mayingbao/archive/2007/11/30/978530.html).
+
+###[Fiddler](http://fiddler2.com/)
+
+[Building Faster Sites and Services with Fiddler](http://calendar.perfplanet.com/2012/building-faster-sites-and-services-with-fiddler/).
+
+Real Hard place
+---------------
+
+JS性能优化的判断和执行是最困难的，但它对于大多站点刚好也是效果最不明显的。
