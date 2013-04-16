@@ -1,4 +1,4 @@
 Oceanlau's
 ==========
 
-Check out: [http://oceanlau.github.com/](http://oceanlau.github.com/).
+Check out: [http://oceanlau.github.io/](http://oceanlau.github.io/).
