@@ -27,17 +27,17 @@ Measuring Your Work
 
 YSlow和PageSpeed就不说了。
 
-###[dynaTrace AJAX Edition](http://www.compuware.com/application-performance-management/ajax-performance-testing.html)
+###dynaTrace AJAX Edition
 
-相比下面两款比较单纯的抓包工具，dynaTrace是性能优化比较首选，KPIs数据明显，同时可用来评价JS性能，还有更多。
+相比下面两款比较单纯的抓包工具，dynaTrace是性能优化比较首选，KPIs数据明显，同时可用来评价JS性能，还有更多。[下载地址](http://www.compuware.com/application-performance-management/ajax-performance-testing.html)。
 
 ###HttpWatch
 
 [HttpWatch工具简介及使用技巧](http://www.cnblogs.com/mayingbao/archive/2007/11/30/978530.html).
 
-###[Fiddler](http://fiddler2.com/)
+###Fiddler
 
-[Building Faster Sites and Services with Fiddler](http://calendar.perfplanet.com/2012/building-faster-sites-and-services-with-fiddler/).
+[Building Faster Sites and Services with Fiddler](http://calendar.perfplanet.com/2012/building-faster-sites-and-services-with-fiddler/)。[下载地址](http://fiddler2.com/)。
 
 Real Hard place
 ---------------

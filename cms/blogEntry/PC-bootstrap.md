@@ -56,6 +56,8 @@ Win 7
 
     电影字幕问题的最佳解决方案，而且广告少，只可惜以后不在校园网下不到高清了
 
+-   [foobar2000](http://www.foobar2000.org/)
+
 -   [酷我音乐盒](http://www.kuwo.cn/)
 
     舍不得[虾米币](http://www.xiami.com/)时，找长尾音乐最有效去处
@@ -68,7 +70,11 @@ Win 7
 
     虽然我不看日漫，但这个工具看RAR里的图太方便了
 
+-   [Evernote](https://evernote.com/)
+
 -   [Adobe Reader](http://get.adobe.com/cn/reader/)
+
+-   [grepwin](https://code.google.com/p/grepwin/)
 
 -   [Daemon Tools Lite](http://www.daemon-tools.cc/eng/products/dtLite)
 
