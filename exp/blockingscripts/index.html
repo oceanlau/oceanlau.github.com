@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Blocking Scripts: Render, Block, Defer, Async</title>
+	<script src="jquery-1.10.2.min.js"></script>
+	<script>alert('defer.js script starts loading')</script>
+	<script defer src="defer.js"></script>
+</head>
+<body>
+	<h1>Blocking Scripts: Render, Block, Defer, Async</h1>
+	<p>
+		Now we load first.js script, which inserts three dynamic scripts.<br />
+		Prepending one in the body.<br />
+		Inserting one after first.js script tag.<br />
+		Appending one in the body.
+	</p>
+	<script>alert('first.js script starts loading')</script>
+	<script id="first" src="first.js"></script>
+	<p>
+		Notice that this paragraph was blocked from rendering by frist.js.<br />
+		second.js script should be started loading right after first.js. But the inserted scripts blocks it.
+	</p>
+	<script>alert('second.js script starts loading')</script>
+	<script id="second" src="second.js"></script>
+</body>
+</html>
